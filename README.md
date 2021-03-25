@@ -20,3 +20,6 @@ http://localhost:8080/secureJourney
     "toZone": 2,
     "fare": 30
 }
+
+
+![image](https://user-images.githubusercontent.com/5483984/112458207-93363400-8d82-11eb-82c5-85a17cb02d3b.png)
